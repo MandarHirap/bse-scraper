@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+bse_debug.html
+bse_debug.png
+.DS_Store
+.vscode/
+.idea/
